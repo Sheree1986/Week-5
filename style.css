@@ -1,0 +1,20 @@
+
+.story{
+  border: 1px soild dodgerblue;
+  padding: 20% 20% 10% 10%;
+  width: 100%;
+  height: 450px;
+
+
+
+}
+.bluebottle {
+  font-family: 'Roboto', sans-serif
+  background-color: white;
+  color: black;
+  width: 80%;
+  margin: auto;
+  padding: 100px 150px 100px 30px;
+  text-align: left;
+ 
+  
